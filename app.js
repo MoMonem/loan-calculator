@@ -42,7 +42,3 @@ function loading() {
     resultDiv.style.display = "block";
   }, 2000);
 }
-
-// Monthly payment = (Amount borrowed * Annual rate) / 12
-// Total interest = (Amount borrowed * Annual rate * years
-// Total payment = Amount borrowed + (Amount borrowed * Annual rate * years
